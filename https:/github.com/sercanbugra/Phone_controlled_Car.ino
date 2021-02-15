@@ -5,8 +5,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 
-#define RightMotorSpeed  14          // Enable/speed motors Right        GPIO14(D5)
-#define LeftMotorSpeed  12        // Enable/speed motors Left 
+#define RightMotorSpeed  14          // Enable speed motors Right        GPIO14(D5)
+#define LeftMotorSpeed  12        // Enable speed motors Left 
 
 #define RightMotorDir1   15     // L298N in1 motors Right           GPIO15(D8)
 #define RightMotorDir2   13     // L298N in2 motors Right           GPIO13(D7)
